@@ -15,8 +15,7 @@
   "license": "MIT",
   "moduleType": "globals",
   "main": [
-    "scss/bootstrap.scss",
-    "dist/js/bootstrap.js"
+    "scss/bootstrap.scss"
   ],
   "ignore": [
     "/.*",
